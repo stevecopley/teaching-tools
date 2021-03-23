@@ -10,8 +10,8 @@ A collection of the tools I find useful when teaching coding and other digital t
  - [AnyFiddle](https://www.anyfiddle.com/) (various languages, including HTML/CSS/JS and Python)
  - [Replit](https://replit.com) (various languages, including HTML/CSS/JS and Python, with paid education plans)
  - [PythonAnywhere](https://www.pythonanywhere.com/) (Python instances, with basic teacher/student support)
- - [Scratch](https://scratch.mit.edu/) (classroom features)
- - [Snap!](https://snap.berkeley.edu/)
+ - [Scratch](https://scratch.mit.edu/) (block-based, classroom features)
+ - [Snap!](https://snap.berkeley.edu/) (block-based)
 
 ## Docs & Reference
 
@@ -46,7 +46,7 @@ A collection of the tools I find useful when teaching coding and other digital t
 
  - [CoderByte](https://coderbyte.com/) (coding challenges)
  - [Edabit](https://edabit.com/) (tutorials and coding challenges)
- - [Blockly Games](https://blockly.games/) (block-style challenges, linked to JS too)
+ - [Blockly Games](https://blockly.games/) (block-based challenges, linked to JS too)
  - [Erase All Kittens](https://eraseallkittens.com/) (fun tasks using HTML/CSS)
 
 ## Videos & Other Media
